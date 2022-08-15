@@ -11,7 +11,7 @@ Hardware and Software Used:
 * Arduino IDE
 
 # Schematic Diagram
-![GitHub Footer](Images\esp32-oximeter.png)
+![GitHub Footer](Images/esp32-oximeter.png)
 
 # Implementation 
-![GitHub Footer](Images\implementation.jpeg)
+![GitHub Footer](Images/implementation.jpeg)
